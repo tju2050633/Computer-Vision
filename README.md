@@ -3,5 +3,5 @@
 - [x] HW1
 - [x] HW2
 - [ ] HW3
-- [x] Courese Project: https://github.com/tju2050633/iviz-CV-project
+- [x] Courese Project(client part, w/o ROS alg. or TCP script on host): https://github.com/tju2050633/iviz-CV-project
 - [ ] Notes
